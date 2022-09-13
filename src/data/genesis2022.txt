@@ -1,0 +1,193 @@
+|-
+|1st||{{Sm|Zain|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|2nd||{{Sm|Jmook|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|3rd||{{Sm|iBDW|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|4th||{{Sm|n0ne|Canada}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|5th||{{Sm|aMSa|Japan}}||{{Head|Yoshi|g=SSBM|s=16px}}||
+|-
+|5th||{{Sm|Hungrybox|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|7th||{{Sm|Kalamazhu|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|7th||{{Sm|lloD|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|KoDoRiN|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Ginger|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Mango|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|SluG|USA}}||{{Head|Ice Climbers|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Plup|USA}}||{{Head|Sheik|g=SSBM|s=16px}}{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|moky|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Axe|USA}}||{{Head|Pikachu|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Krudo|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Salt|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Aura|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Polish|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|KJH|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|SFAT|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Fiction|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Zamu|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Spark|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Azel|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Ralph|USA}}||{{Head|Fox|g=SSBM|s=16px}}{{Head|Pikachu|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|S2J|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|bobby big ballz|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|null|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|ChuDat|USA}}||{{Head|Ice Climbers|g=SSBM|s=16px}}{{Head|Mario|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Panda|USA|p=Washington}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Dawson|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Magi|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Ben|USA}}||{{Head|Sheik|g=SSBM|s=16px}}<!--Please do not add Luigi next to Ben's name. Characters should be only be added if they helped to win a set.-->||
+|-
+|33rd||{{Sm|Suf|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|TheSWOOPER|USA}}||{{Head|Samus|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Zuppy|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Eddy Mexico|Mexico}}||{{Head|Luigi|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|SDJ|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Drephen|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Kalvar|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Slowking|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|404Cray|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Juicebox|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Fizzwiggle|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|cliché|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|rom|USA|p=California}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Umarth|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Seal|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Lucky|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|FatGoku|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Shroomed|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Bimbo|Mexico}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|CPU0|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|dansdaman|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Logos|USA|p=California}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Ambisinister|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Darkatma|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|shabo|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Typhoon|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|John Wick|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Stiv|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Gooms|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|49th||{{Sm|Greg Turbo|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|polear|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Sora|Australia|p=Australia}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Ember|USA|p=New Hampshire}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|SpiritGun|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Wally|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Redd|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Casper|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|PRZ|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|NoFluxes|USA}}||{{Head|Ganondorf|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Lord|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|blargh257|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|JJM|USA}}||{{Head|Ice Climbers|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Captain G|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|MegaXmas|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Darrell|USA}}||{{Head|Samus|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Conman|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Noire|USA|p=California}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Hank|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Blues Clues|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Webwipe|Canada}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|raoul|France}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Pancakes|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Snap|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Wassabi|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Amrak|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|SA Nick|Australia}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Eggy|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Reesch|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Blandeezy|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Toph|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Nakamaman|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|65th||{{Sm|Younger|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|}

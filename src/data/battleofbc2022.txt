@@ -1,0 +1,66 @@
+|-
+|1st||{{Sm|Leffen|Sweden}}||{{Head|Fox|g=SSBM|s=16px}}{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|2nd||{{Sm|Zain|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|3rd||{{Sm|Hungrybox|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|4th||{{Sm|aMSa|Japan}}||{{Head|Yoshi|g=SSBM|s=16px}}||
+|-
+|5th||{{Sm|KoDoRiN|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|5th||{{Sm|Jmook|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|7th||{{Sm|Soonsay|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|7th||{{Sm|moky|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|S2J|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Sora|Australia|p=Australia}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Swift|USA|p=Maryland}}||{{Head|Pikachu|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|SFAT|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Eddy Mexico|Mexico}}||{{Head|Luigi|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Elliot|Canada}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Zealot|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Lucky|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|jess(star)|Canada}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Drunko|Canada}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Nickemwit|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Aura|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|null|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Connect4Master|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Zuppy|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|2saint|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Unruly|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Iron|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Polo|Canada}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Espi|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Ka-Master|USA}}||{{Head|Luigi|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Beezy|Canada}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Amrak|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Vish|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|}
+

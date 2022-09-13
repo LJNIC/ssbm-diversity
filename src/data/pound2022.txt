@@ -1,0 +1,98 @@
+|-
+|1st||{{Sm|Zain|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|2nd||{{Sm|Hungrybox|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||$888.30<ref>https://twitter.com/LiquidHbox/status/1518672335724810249</ref>
+|-
+|3rd||{{Sm|aMSa|Japan}}||{{Head|Yoshi|g=SSBM|s=16px}}||
+|-
+|4th||{{Sm|lloD|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|5th||{{Sm|KoDoRiN|USA}}||{{Head|Marth|g=SSBM|s=16px}}||$150
+|-
+|5th||{{Sm|Leffen|Sweden}}||{{Head|Fox|g=SSBM|s=16px}}||$150<ref>https://twitter.com/TSM_Leffen/status/1518682297553334272</ref>
+|-
+|7th||{{Sm|Aklo|USA}}||{{Head|Fox|g=SSBM|s=16px}}||$84.60
+|-
+|7th||{{Sm|Fiction|USA}}||{{Head|Falco|g=SSBM|s=16px}}||$84.60<ref>https://twitter.com/FictionIRL/status/1518823968345497600</ref>
+|-
+|9th||{{Sm|Polish|USA}}||{{Head|Peach|g=SSBM|s=16px}}{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|TheSWOOPER|USA}}||{{Head|Samus|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|iBDW|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|n0ne|Canada}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Mango|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|SFAT|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Logan|USA|p=South Carolina}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Axe|USA}}||{{Head|Pikachu|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Bbatts|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|bobby big ballz|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Pipsqueak|Sweden}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Swift|USA|p=Maryland}}||{{Head|Pikachu|g=SSBM|s=16px}}{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|JJM|USA}}||{{Head|Ice Climbers|g=SSBM|s=16px}}{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Jflex|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Sora|Australia|p=Australia}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Wally|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Kalvar|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Frostbyte|USA|p=Melee}}||{{Head|Ice Climbers|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Mekk|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Juicebox|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|MilkMan|USA}}<ref>Entered as "JOJI"</ref>||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Drephen|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|SA Nick|Australia}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Mad Tyro|USA}}||{{Head|Luigi|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Willy P|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Eggy|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Khryke|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Maelstrom|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Bones|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Maples|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|NoFluxes|USA}}||{{Head|Ganondorf|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|danilo calamari|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Fable|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Dawson|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Peanutphobia|USA}}||{{Head|Yoshi|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Skerzo|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|null|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|HOBORG|USA}}||{{Head|Luigi|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Error|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|33rd||{{Sm|Sneker|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|}
+
