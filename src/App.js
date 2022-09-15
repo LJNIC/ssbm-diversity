@@ -1,4 +1,5 @@
 import CharacterChart from './CharacterBarChart';
+import PlayerList from './PlayerList';
 import Select from 'react-select';
 import React, { useState } from 'react';
 import tournaments from './data/data.json';
@@ -19,19 +20,23 @@ function App() {
   const [activeIndex, setIndex] = useState(null);
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <Select 
-          options={options} 
-          value={selectedTournament}
-          onChange={setTournament}
-        />
-        <CharacterChart 
-          data={tournaments[selectedTournament.value]}
-          setIndex={setIndex}
-          activeIndex={activeIndex}
-        />
+    <div className='App'>
+      <header className='App-header'>
+          MELEE
       </header>
+      <Select 
+        options={options} 
+        value={selectedTournament}
+        onChange={setTournament}
+      />
+      <CharacterChart 
+        data={tournaments[selectedTournament.value]}
+        setIndex={setIndex}
+        activeIndex={activeIndex}
+      />
+      {activeIndex !== null &&        
+        <PlayerList players={tournaments[selectedTournament.value][activeIndex].players}/>
+      }
     </div>
   );
 }
