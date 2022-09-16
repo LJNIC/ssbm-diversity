@@ -1,5 +1,6 @@
 import CharacterChart from './CharacterBarChart';
 import PlayerList from './PlayerList';
+import TournamentList from './TournamentList';
 import Select from 'react-select';
 import React, { useState } from 'react';
 import tournaments from './data/data.json';
@@ -18,25 +19,27 @@ const options = [
 function App() {
   const [selectedTournament, setTournament] = useState(options[0]);
   const [activeIndex, setIndex] = useState(null);
+  const players = activeIndex === null ? [] : tournaments[selectedTournament.value][activeIndex].players
 
   return (
     <div className='App'>
       <header className='App-header'>
-          MELEE
+        Melee Character Diversity
       </header>
-      <Select 
-        options={options} 
-        value={selectedTournament}
-        onChange={setTournament}
+      <main className='App-main'>
+      <TournamentList
+        tournaments={options}
+        setTournament={setTournament}
       />
       <CharacterChart 
         data={tournaments[selectedTournament.value]}
         setIndex={setIndex}
         activeIndex={activeIndex}
       />
-      {activeIndex !== null &&        
-        <PlayerList players={tournaments[selectedTournament.value][activeIndex].players}/>
-      }
+      <PlayerList players={players}/>
+      </main>
+      <footer className='App-footer'>
+      </footer>
     </div>
   );
 }
