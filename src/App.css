@@ -3,13 +3,13 @@ a {
 }
 
 .App {
-  background-color: #060e21;
   padding: 15px 30px 0 30px;
   min-height: 100vh;
+  background: url("assets/background.jpg");
 }
 
 .App-header {
-  color: grey;
+  color: white;
   font-size: 3em;
   font-family: Arial;
   font-weight: bold;
@@ -18,14 +18,36 @@ a {
 
 .App-main {
   display: flex;
-  border: solid red 1px;
+  border: solid #d82f2f 10px;
+  border-radius: 15px;
   padding: 15px;
   justify-content: space-between;
+  align-items: center;
 }
 
 .TournamentList {
   display: flex;
   flex-direction: column;
+}
+
+.TournamentListItem {
+  border: none;
+  margin-bottom: 10px;
+  position: relative;
+  padding: 0.5em;
+  font-size: 1rem;
+  text-transform: uppercase;
+  border: 2px solid orange;
+  cursor: pointer;
+  color: white;
+  background: linear-gradient(to left, transparent 50%, orange 50%);
+  background-size: 201%;
+  background-position: right;
+  transition: background-position 0.5s ease-in-out;
+}
+
+.active {
+  background-position: left;
 }
 
 .PlayerList {
@@ -41,3 +63,9 @@ a {
   justify-content: space-between;
   margin-bottom: 5px;
 }
+
+.Tooltip {
+  color: white;
+  border: none;
+}
+

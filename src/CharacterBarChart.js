@@ -16,6 +16,14 @@ function renderCharacterTick({x, y, payload}) {
   );
 }
 
+function CharacterToolTip({payload, label, active}) {
+  if (active) {
+    return (
+      <p className="Tooltip"> {payload[0].value} {payload[0].value=== 1 ? "player" : "players"} </p>
+    );
+  }
+}
+
 export default function CharacterBarChart(props) {
   const { activeIndex, setIndex, data } = props;
   const activeItem = data[activeIndex];
@@ -26,10 +34,24 @@ export default function CharacterBarChart(props) {
         <BarChart width={150} height={300} data={data} layout='vertical'>
           <XAxis type='number'/>
           <YAxis type='category' dataKey='character' width={100} tick={renderCharacterTick}/>
+          <Tooltip 
+            content={<CharacterToolTip/>} 
+            cursor={false}
+            wrapperStyle={{ backgroundColor: "transparent", width: "100px" }}
+          />
           <Bar dataKey='count' onClick={(data, index) => setIndex(index)}>
-            {data.map((entry, index) => (
-              <Cell cursor='pointer' fill={characterColours[entry.character]} key={`cell-${index}`} />
-            ))}
+            {data.map((entry, index) => {
+              const colour = characterColours[entry.character];
+              return (
+                <Cell 
+                  cursor='pointer' 
+                  fill={colour} 
+                  fillOpacity={activeIndex === index ? 0.75 : 0.25}
+                  key={`cell-${index}`} 
+                  stroke={colour}
+                />
+              );
+            })}
           </Bar>
         </BarChart>
       </ResponsiveContainer>

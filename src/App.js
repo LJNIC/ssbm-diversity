@@ -16,10 +16,26 @@ const options = [
   { value: 'shine2022', label: 'Shine' },
   { value: 'riptide2022', label: 'Riptide' }
 ]
+
 function App() {
-  const [selectedTournament, setTournament] = useState(options[0]);
+  const [activeTournament, setTournament] = useState(options[0]);
   const [activeIndex, setIndex] = useState(null);
-  const players = activeIndex === null ? [] : tournaments[selectedTournament.value][activeIndex].players
+  const data = tournaments[activeTournament.value]
+  console.log(activeTournament)
+  const players = activeIndex === null ? [] : data[activeIndex].players
+
+  const updateTournament = (option) => {
+    const nextTournament = tournaments[option.value]
+
+    if (activeIndex !== null) {
+      const character = data[activeIndex].character
+      let nextIndex = nextTournament.findIndex(el => el.character === character);
+      if (nextIndex < 0) nextIndex = 0;
+      setIndex(nextIndex);
+    }
+
+    setTournament(option);
+  };
 
   return (
     <div className='App'>
@@ -29,10 +45,11 @@ function App() {
       <main className='App-main'>
       <TournamentList
         tournaments={options}
-        setTournament={setTournament}
+        setTournament={updateTournament}
+        activeTournament={activeTournament}
       />
       <CharacterChart 
-        data={tournaments[selectedTournament.value]}
+        data={data}
         setIndex={setIndex}
         activeIndex={activeIndex}
       />
