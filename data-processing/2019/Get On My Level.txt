@@ -1,0 +1,64 @@
+|1st||{{Sm|Mango|USA}}||{{Head|Falco|g=SSBM|s=16px}}||$1,680.00
+|-
+|2nd||{{Sm|Axe|USA}}||{{Head|Pikachu|g=SSBM|s=16px}}||$840.00
+|-
+|3rd||{{Sm|Leffen|Sweden}}||{{Head|Fox|g=SSBM|s=16px}}||$630.00
+|-
+|4th||{{Sm|Wizzrobe|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||$420.00
+|-
+|5th||{{Sm|SFAT|USA}}||{{Head|Fox|g=SSBM|s=16px}}||$210.00
+|-
+|5th||{{Sm|Hungrybox|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||$210.00
+|-
+|7th||{{Sm|moky|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||$105.00
+|-
+|7th||{{Sm|Zain|USA}}||{{Head|Marth|g=SSBM|s=16px}}||$105.00
+|-
+|9th||{{Sm|aMSa|Japan}}||{{Head|Yoshi|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Plup|USA}}||{{Head|Sheik|g=SSBM|s=16px}}{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|Swedish Delight|USA}}||{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|9th||{{Sm|S2J|USA}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|n0ne|Canada}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Matteo|Canada}}||{{Head|Captain Falcon|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Lucky|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|13th||{{Sm|Hax$|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Qerb|USA}}||{{Head|Mr. Game & Watch|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Shroomed|USA}}||{{Head|Marth|g=SSBM|s=16px}}{{Head|Sheik|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|La Luna|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Westballz|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Ginger|USA}}||{{Head|Falco|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Chillindude|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|KJH|USA}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|17th||{{Sm|Espi|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Ryan Ford|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Fauxhebro|Canada}}||{{Head|Ice Climbers|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Star|Canada|p=Canada}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Paytron|Canada}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Pisces|USA}}||{{Head|Marth|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Soonsay|Canada}}||{{Head|Fox|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|BIGKID|USA}}||{{Head|Jigglypuff|g=SSBM|s=16px}}||
+|-
+|25th||{{Sm|Wally|USA}}||{{Head|Peach|g=SSBM|s=16px}}||
+|}

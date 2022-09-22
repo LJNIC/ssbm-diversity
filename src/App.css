@@ -1,5 +1,15 @@
 a {
   color: aliceblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: white;
+  text-align: center;
 }
 
 .App {
@@ -21,13 +31,14 @@ a {
   border: solid #d82f2f 10px;
   border-radius: 15px;
   padding: 15px;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-around;
 }
 
 .TournamentList {
   display: flex;
   flex-direction: column;
+  margin: 0;
+  padding: 0;
 }
 
 .TournamentListItem {
