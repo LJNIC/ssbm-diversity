@@ -1,16 +1,16 @@
-import CharacterBarChart from './CharacterBarChart';
-import CharacterDonutChart from './CharacterDonutChart';
+import CharacterChart from './CharacterChart';
 import PlayerList from './PlayerList';
 import TournamentList from './TournamentList';
 import React, { useState } from 'react';
 import { Tournament } from './types';
 import { data } from './config';
+import './Splide.css';
 import './App.css';
 
 function App() {
   const [activeYear, setYear] = useState(0);
-  const [activeTournament, setTournament] = useState<Tournament>(data[0].tournaments[0]);
-  const [activeIndex, setIndex] = useState<number | null>(null);
+  const [activeTournament, setTournament] = useState(data[0].tournaments[0]);
+  const [activeIndex, setIndex] = useState(0);
 
   const players = activeIndex === null ? [] : activeTournament.characters[activeIndex].players
 
@@ -37,7 +37,7 @@ function App() {
         setTournament={updateTournament}
         activeTournament={activeTournament}
       />
-      <CharacterBarChart 
+      <CharacterChart 
         data={activeTournament}
         setIndex={setIndex}
         activeIndex={activeIndex}

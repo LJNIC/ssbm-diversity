@@ -28,33 +28,31 @@ export default function CharacterBarChart(props: Props) {
   const { activeIndex, setIndex, data } = props;
 
   return (
-    <div style={{ width: '50%' }}>
-      <ResponsiveContainer width='100%' height={500}>
-        <BarChart width={150} height={300} data={data.characters} layout='vertical'>
-          <XAxis type='number' stroke="white"/>
-          <YAxis type='category' dataKey='character' width={100} tick={renderCharacterTick} stroke="none"/>
-          <Tooltip 
-            content={<CharacterToolTip/>} 
-            cursor={false}
-            wrapperStyle={{ backgroundColor: "transparent", width: "100px" }}
-          />
-          <Bar dataKey='count' onClick={(data, index) => setIndex(index)}>
-            {data.characters.map((entry, index) => {
-              const colour = characterColours[entry.character];
-              return (
-                <Cell 
-                  cursor='pointer' 
-                  fill={colour} 
-                  fillOpacity={activeIndex === index ? 0.75 : 0.25}
-                  key={`cell-${index}`} 
-                  stroke={colour}
-                />
-              );
-            })}
-          </Bar>
-        </BarChart>
-      </ResponsiveContainer>
-    </div>
+    <ResponsiveContainer width='100%' height={450}>
+      <BarChart width={150} height={300} data={data.characters} layout='vertical' margin={{ top: 45 }}>
+        <XAxis type='number' stroke="white"/>
+        <YAxis type='category' dataKey='character' width={30} tick={renderCharacterTick} stroke="none"/>
+        <Tooltip 
+          content={<CharacterToolTip/>} 
+          cursor={false}
+          wrapperStyle={{ backgroundColor: "transparent", width: "100px" }}
+        />
+        <Bar dataKey='count' onClick={(data, index) => setIndex(index)}>
+          {data.characters.map((entry, index) => {
+            const colour = characterColours[entry.character];
+            return (
+              <Cell 
+                cursor='pointer' 
+                fill={colour} 
+                fillOpacity={activeIndex === index ? 0.75 : 0.25}
+                key={`cell-${index}`} 
+                stroke={colour}
+              />
+            );
+          })}
+        </Bar>
+      </BarChart>
+    </ResponsiveContainer>
   );
 }
 

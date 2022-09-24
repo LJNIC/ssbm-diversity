@@ -13,17 +13,17 @@ h1 {
 }
 
 .App {
-  padding: 15px 30px 0 30px;
   min-height: 100vh;
   background: url("assets/background.jpg");
+  background-size: cover;
 }
 
 .App-header {
   color: white;
   font-size: 3em;
   font-family: Arial;
-  font-weight: bold;
   font-style: italic;
+  margin-left: 35px;
 }
 
 .App-main {
@@ -32,6 +32,7 @@ h1 {
   border-radius: 15px;
   padding: 15px;
   justify-content: space-around;
+  margin: 0px 30px 0 30px;
 }
 
 .TournamentList {
@@ -78,5 +79,9 @@ h1 {
 .Tooltip {
   color: white;
   border: none;
+}
+
+.CharacterChart {
+  width: 50%;
 }
 
