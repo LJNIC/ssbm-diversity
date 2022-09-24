@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ssbm-diversity/static/css/main.679a1f04.css",
-    "main.js": "/ssbm-diversity/static/js/main.a1645ac1.js",
+    "main.css": "/ssbm-diversity/static/css/main.be437728.css",
+    "main.js": "/ssbm-diversity/static/js/main.49a7d633.js",
     "static/js/787.27a1a25e.chunk.js": "/ssbm-diversity/static/js/787.27a1a25e.chunk.js",
     "static/media/background.jpg": "/ssbm-diversity/static/media/background.9f810519771c94a8cf16.jpg",
     "index.html": "/ssbm-diversity/index.html",
-    "main.679a1f04.css.map": "/ssbm-diversity/static/css/main.679a1f04.css.map",
-    "main.a1645ac1.js.map": "/ssbm-diversity/static/js/main.a1645ac1.js.map",
+    "main.be437728.css.map": "/ssbm-diversity/static/css/main.be437728.css.map",
+    "main.49a7d633.js.map": "/ssbm-diversity/static/js/main.49a7d633.js.map",
     "787.27a1a25e.chunk.js.map": "/ssbm-diversity/static/js/787.27a1a25e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.679a1f04.css",
-    "static/js/main.a1645ac1.js"
+    "static/css/main.be437728.css",
+    "static/js/main.49a7d633.js"
   ]
 }
